@@ -1,0 +1,2 @@
+rootProject.name = "Quick-Fix"
+include ':app'
